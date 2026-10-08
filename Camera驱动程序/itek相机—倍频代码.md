@@ -88,8 +88,12 @@ else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 
+内部
+触发器选择器  帧触发开始
+
+外部触发
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Nzc1Mzg1MSwxNTM0Njg0NzY5LC0xNz
-Q2NTk5NTI4LDI4NjE4ODIzMCwtMjA4MzkzMTc4Miw4MzkyOTAw
-NV19
+eyJoaXN0b3J5IjpbLTIwODg1MTg2NTMsMTUzNDY4NDc2OSwtMT
+c0NjU5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5Mjkw
+MDVdfQ==
 -->
