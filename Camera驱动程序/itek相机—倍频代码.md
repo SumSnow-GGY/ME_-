@@ -57,9 +57,10 @@ else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 
-### c
+### 海康相机参数-触发
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY4MDA4NDcsMTUzNDY4NDc2OSwtMT
-c0NjU5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5Mjkw
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTIwNTE0OTQ2NiwxNTM0Njg0NzY5LC0xNz
+Q2NTk5NTI4LDI4NjE4ODIzMCwtMjA4MzkzMTc4Miw4MzkyOTAw
+NV19
 -->
