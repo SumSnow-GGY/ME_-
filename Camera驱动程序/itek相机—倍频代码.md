@@ -44,9 +44,9 @@ if  (lineTrigger  <  10)
 else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 {
 }
-else  if  (lineTrigger  ==  100)
+else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTQ0NTMxOSwtMjA4MzkzMTc4Miw4Mz
-kyOTAwNV19
+eyJoaXN0b3J5IjpbMjExNDQxOTI0LC0yMDgzOTMxNzgyLDgzOT
+I5MDA1XX0=
 -->
