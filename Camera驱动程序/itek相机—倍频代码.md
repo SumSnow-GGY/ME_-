@@ -90,10 +90,12 @@ else  if  (lineTrigger  ==  100) //  全部不设置
 
 内部
 触发器选择器  帧触发开始
+触发模式 关闭
 
 外部触发
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg1MTg2NTMsMTUzNDY4NDc2OSwtMT
+eyJoaXN0b3J5IjpbLTEzMzUyODQ2NTgsMTUzNDY4NDc2OSwtMT
 c0NjU5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5Mjkw
 MDVdfQ==
 -->
