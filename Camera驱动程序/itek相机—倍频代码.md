@@ -65,9 +65,10 @@ I/O类型（单端/差分） 差分
 //  帧信号参数配置，不启动
 触发器选择器 6 帧触发
 触发源
-
+触发极性 下降沿
+s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIxNDU3ODYsMTUzNDY4NDc2OSwtMT
+eyJoaXN0b3J5IjpbLTE1NjkyMjU0NzcsMTUzNDY4NDc2OSwtMT
 c0NjU5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5Mjkw
 MDVdfQ==
 -->
