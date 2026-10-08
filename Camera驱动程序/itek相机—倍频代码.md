@@ -44,6 +44,7 @@ if  (lineTrigger  <  10)
 }
 else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 {
+  // 根据LineTrigger
 	// 设置PreDivider
 	// 设置Multiplier
 	// 设置PostDivider
@@ -51,6 +52,6 @@ else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTUxMzM4MywyODYxODgyMzAsLTIwOD
+eyJoaXN0b3J5IjpbLTYxNDk2MDQyNCwyODYxODgyMzAsLTIwOD
 M5MzE3ODIsODM5MjkwMDVdfQ==
 -->
