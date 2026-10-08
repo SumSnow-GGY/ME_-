@@ -58,10 +58,10 @@ else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 
 ### 海康相机参数-触发
-线路选择器
-I/O类型（单端/差分）
+线路选择器 线路0，1，3
+I/O类型（单端/差分） 差分
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MzIwMDM3LDE1MzQ2ODQ3NjksLTE3ND
-Y1OTk1MjgsMjg2MTg4MjMwLC0yMDgzOTMxNzgyLDgzOTI5MDA1
-XX0=
+eyJoaXN0b3J5IjpbMTc5NzIxODQ2NywxNTM0Njg0NzY5LC0xNz
+Q2NTk5NTI4LDI4NjE4ODIzMCwtMjA4MzkzMTc4Miw4MzkyOTAw
+NV19
 -->
