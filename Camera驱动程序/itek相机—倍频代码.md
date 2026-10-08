@@ -64,10 +64,10 @@ I/O类型（单端/差分） 差分
 
 //  帧信号参数配置，不启动
 触发器选择器 6 帧触发
-
+触发源
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjcwOTI3NSwxNTM0Njg0NzY5LC0xNz
-Q2NTk5NTI4LDI4NjE4ODIzMCwtMjA4MzkzMTc4Miw4MzkyOTAw
-NV19
+eyJoaXN0b3J5IjpbLTEzNjIxNDU3ODYsMTUzNDY4NDc2OSwtMT
+c0NjU5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5Mjkw
+MDVdfQ==
 -->
