@@ -21,8 +21,11 @@
   nRet  =  MV_CC_SetEnumValue(handle,  "TriggerSelector",  6);  //  FrameBurstStart  Enum  Entry  Value:  6
   if  (frameTrigger  !=  100)
   {
+	  nRet  =  MV_CC_SetEnumValue(handle,  "TriggerSource",  uint(frameTrigger));  //  HIK相机，一共只有3组差分输入
+      nRet  =  MV_CC_SetEnumValue(handle,  "TriggerActivation",  1);  //  FallingEdge  Enum  Entry  Value:  1
+  }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNzM5MTE5LC0yMDgzOTMxNzgyLDgzOT
-I5MDA1XX0=
+eyJoaXN0b3J5IjpbMTQ4NDkxNTUwMCwtMjA4MzkzMTc4Miw4Mz
+kyOTAwNV19
 -->
