@@ -44,6 +44,11 @@ if  (lineTrigger  <  10)
 }
 else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 {
+	//设置TriggerSource"
+  //设置EncoderSourceA
+  //设置EncoderSourceB
+  //设置InputSource", 
+
     // 根据LineTrigger
 	// 设置PreDivider
 	// 设置Multiplier
@@ -52,6 +57,6 @@ else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY1OTk1MjgsMjg2MTg4MjMwLC0yMD
-gzOTMxNzgyLDgzOTI5MDA1XX0=
+eyJoaXN0b3J5IjpbMTUzNDY4NDc2OSwtMTc0NjU5OTUyOCwyOD
+YxODgyMzAsLTIwODM5MzE3ODIsODM5MjkwMDVdfQ==
 -->
