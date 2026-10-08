@@ -38,8 +38,15 @@
 ```cpp
   //  行触发缓存使能
   nRet  =  MV_CC_SetBoolValue(handle,  "LineTriggerCacheEnable",  true);  //  打开行缓存使能
+if  (lineTrigger  <  10)
+{
+}
+else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
+{
+}
+else  if  (lineTrigger  ==  100)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NzE3ODk2LC0yMDgzOTMxNzgyLDgzOT
-I5MDA1XX0=
+eyJoaXN0b3J5IjpbMTY5NTQ0NTMxOSwtMjA4MzkzMTc4Miw4Mz
+kyOTAwNV19
 -->
