@@ -58,10 +58,16 @@ else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 
 ### 海康相机参数-触发
+//  全部Line0，1，3都设置为差分
 线路选择器 线路0，1，3
 I/O类型（单端/差分） 差分
+
+//  帧信号参数配置，不启动
+触发器选择器 6 帧触发
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzIxODQ2NywxNTM0Njg0NzY5LC0xNz
+eyJoaXN0b3J5IjpbLTgyNjcwOTI3NSwxNTM0Njg0NzY5LC0xNz
 Q2NTk5NTI4LDI4NjE4ODIzMCwtMjA4MzkzMTc4Miw4MzkyOTAw
 NV19
 -->
