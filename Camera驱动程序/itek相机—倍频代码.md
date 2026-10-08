@@ -25,7 +25,16 @@
       nRet  =  MV_CC_SetEnumValue(handle,  "TriggerActivation",  1);  //  FallingEdge  Enum  Entry  Value:  1
   }
 ```
+
+```cpp
+//  行信号参数配置，不启动
+  nRet  =  MV_CC_SetEnumValue(handle,  "TriggerSelector",  9);  //  LineStart  Enum  Entry  Value:  9
+  if  (lineTrigger  !=  100)
+  {
+      nRet  =  MV_CC_SetEnumValue(handle,  "TriggerActivation",  1);  //  FallingEdge  Enum  Entry  Value:  1
+  }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDkxNTUwMCwtMjA4MzkzMTc4Miw4Mz
-kyOTAwNV19
+eyJoaXN0b3J5IjpbMjQ1OTI0NTQ2LC0yMDgzOTMxNzgyLDgzOT
+I5MDA1XX0=
 -->
