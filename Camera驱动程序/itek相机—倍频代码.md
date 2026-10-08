@@ -75,7 +75,7 @@ if  (lineTrigger  <  10)
 }
 else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 {
-	//设置TriggerSource"
+	//设置TriggerSource" 分频器
   //设置EncoderSourceA
   //设置EncoderSourceB
   //设置InputSource", 
@@ -89,7 +89,7 @@ else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMDI3Njg3LDE1MzQ2ODQ3NjksLTE3ND
-Y1OTk1MjgsMjg2MTg4MjMwLC0yMDgzOTMxNzgyLDgzOTI5MDA1
-XX0=
+eyJoaXN0b3J5IjpbOTkwMTU3NDgsMTUzNDY4NDc2OSwtMTc0Nj
+U5OTUyOCwyODYxODgyMzAsLTIwODM5MzE3ODIsODM5MjkwMDVd
+fQ==
 -->
