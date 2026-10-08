@@ -62,13 +62,16 @@ else  if  (lineTrigger  ==  100) //  全部不设置
 线路选择器 线路0，1，3
 I/O类型（单端/差分） 差分
 
-//  帧信号参数配置，不启动/ /  行信号参数配置，不启动
+//  帧信号参数配置，不启动 //  行信号参数配置，不启动
 触发器选择器 6 帧触发
 触发源
 触发极性 下降沿
 
+//  行触发缓存使能
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MTM5MjgzLDE1MzQ2ODQ3NjksLTE3ND
+eyJoaXN0b3J5IjpbNDIxMzY5ODQ3LDE1MzQ2ODQ3NjksLTE3ND
 Y1OTk1MjgsMjg2MTg4MjMwLC0yMDgzOTMxNzgyLDgzOTI5MDA1
 XX0=
 -->
