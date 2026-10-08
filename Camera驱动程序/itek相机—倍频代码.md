@@ -34,7 +34,12 @@
       nRet  =  MV_CC_SetEnumValue(handle,  "TriggerActivation",  1);  //  FallingEdge  Enum  Entry  Value:  1
   }
 ```
+
+```cpp
+  //  行触发缓存使能
+  nRet  =  MV_CC_SetBoolValue(handle,  "LineTriggerCacheEnable",  true);  //  打开行缓存使能
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1OTI0NTQ2LC0yMDgzOTMxNzgyLDgzOT
+eyJoaXN0b3J5IjpbNjU2NzE3ODk2LC0yMDgzOTMxNzgyLDgzOT
 I5MDA1XX0=
 -->
