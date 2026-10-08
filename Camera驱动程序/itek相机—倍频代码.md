@@ -16,7 +16,13 @@
   nRet  =  MV_CC_SetEnumValue(handle,  "LineSelector",  3);
   nRet  =  MV_CC_SetEnumValue(handle,  "LineFormat",  2);  //  Differential  Enum  Entry  Value:  2
 ```
-
+```cpp
+//  帧信号参数配置，不启动
+  nRet  =  MV_CC_SetEnumValue(handle,  "TriggerSelector",  6);  //  FrameBurstStart  Enum  Entry  Value:  6
+  if  (frameTrigger  !=  100)
+  {
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM5MzE3ODIsODM5MjkwMDVdfQ==
+eyJoaXN0b3J5IjpbOTMxNzM5MTE5LC0yMDgzOTMxNzgyLDgzOT
+I5MDA1XX0=
 -->
