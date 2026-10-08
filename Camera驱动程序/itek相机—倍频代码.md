@@ -68,10 +68,28 @@ I/O类型（单端/差分） 差分
 触发极性 下降沿
 
 //  行触发缓存使能
+```cpp
+if  (lineTrigger  <  10)
+{
+	// 设置TriggerSource
+}
+else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
+{
+	//设置TriggerSource"
+  //设置EncoderSourceA
+  //设置EncoderSourceB
+  //设置InputSource", 
 
+    // 根据LineTrigger
+	// 设置PreDivider
+	// 设置Multiplier
+	// 设置PostDivider
+}
+else  if  (lineTrigger  ==  100) //  全部不设置
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzY5ODQ3LDE1MzQ2ODQ3NjksLTE3ND
+eyJoaXN0b3J5IjpbMjkxMDI3Njg3LDE1MzQ2ODQ3NjksLTE3ND
 Y1OTk1MjgsMjg2MTg4MjMwLC0yMDgzOTMxNzgyLDgzOTI5MDA1
 XX0=
 -->
