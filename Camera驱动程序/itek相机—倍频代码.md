@@ -40,6 +40,7 @@
   nRet  =  MV_CC_SetBoolValue(handle,  "LineTriggerCacheEnable",  true);  //  打开行缓存使能
 if  (lineTrigger  <  10)
 {
+	// 设置TriggerSource
 }
 else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 {
@@ -50,6 +51,6 @@ else  if  (lineTrigger  >=  10  &&  lineTrigger  <=  99)
 else  if  (lineTrigger  ==  100) //  全部不设置
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MTg4MjMwLC0yMDgzOTMxNzgyLDgzOT
-I5MDA1XX0=
+eyJoaXN0b3J5IjpbLTgwOTUxMzM4MywyODYxODgyMzAsLTIwOD
+M5MzE3ODIsODM5MjkwMDVdfQ==
 -->
