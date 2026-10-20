@@ -10,9 +10,9 @@ Height 手动Binning：
 	注：Height要乘Binning Vertical ，对齐Buffer返回数据
 	        图像输出时，修改Height Binning，对齐ini参数
 
-4K相机 
-	ROI Widthshe'z
+4K相机 PL4KGV-68KT
+	ROI Width设置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MTkxMzg1LC02ODczOTYwNTMsLTk0OT
-EzNDI1M119
+eyJoaXN0b3J5IjpbMTA4NDk4NjA5OCwtNjg3Mzk2MDUzLC05ND
+kxMzQyNTNdfQ==
 -->
