@@ -3,7 +3,7 @@
 
 > ITek相机驱动
 
-2K相机
+2K相机 PN2KGV-140KM
 Width ， 有Binning进行设置，所以不用管
 ROI Width 当小于Width时，设置Offset让图像居中显示
 Height 手动Binning：
@@ -13,6 +13,6 @@ Height 手动Binning：
 4K相机 PL4KGV-68KT
 	ROI Width设置
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDk4NjA5OCwtNjg3Mzk2MDUzLC05ND
-kxMzQyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQ0MjQwNjgsLTY4NzM5NjA1MywtOT
+Q5MTM0MjUzXX0=
 -->
